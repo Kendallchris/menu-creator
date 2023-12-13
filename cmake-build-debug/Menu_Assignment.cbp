@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Menu_Assignment"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Menu_Assignment">
+				<Option output="/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Menu_Assignment" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Makefile&quot;  VERBOSE=1 Menu_Assignment"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Menu_Assignment/fast">
+				<Option output="/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Menu_Assignment" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Makefile&quot;  VERBOSE=1 Menu_Assignment/fast"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/menu.cpp">
+			<Option target="Menu_Assignment"/>
+		</Unit>
+		<Unit filename="/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/menu.h">
+			<Option target="Menu_Assignment"/>
+		</Unit>
+		<Unit filename="/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/menu_element.cpp">
+			<Option target="Menu_Assignment"/>
+		</Unit>
+		<Unit filename="/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/menu_element.h">
+			<Option target="Menu_Assignment"/>
+		</Unit>
+		<Unit filename="/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/tests.cpp">
+			<Option target="Menu_Assignment"/>
+		</Unit>
+		<Unit filename="/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

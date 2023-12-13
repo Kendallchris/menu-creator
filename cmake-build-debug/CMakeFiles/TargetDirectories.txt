@@ -1,0 +1,3 @@
+/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/CMakeFiles/Menu_Assignment.dir
+/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chriskendall/Documents/GitHub/menu-creator-Kendallchris/cmake-build-debug/CMakeFiles/rebuild_cache.dir
